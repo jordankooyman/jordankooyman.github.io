@@ -1,5 +1,5 @@
 body {
-  background-color: cyan;
+  background-color: lightgrey;
 }
 
 h1 {
@@ -7,6 +7,6 @@ h1 {
   margin-left: 20px;
 }
 h2 {
-  color: magenta;
+  color: navy;
   margin-left: 20px;
 }
